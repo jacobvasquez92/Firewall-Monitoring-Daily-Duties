@@ -1,4 +1,5 @@
-# **Daily Duties of a Firewall Analyst**
+# **Daily Duties of a Firewall Analyst**  
+By Jacob Vasquez  
 
 Your daily routine will be a blend of proactive monitoring, reactive response,   
 and administrative maintenance. The specific tasks can vary, but generally, they will include:  
