@@ -1,6 +1,6 @@
 # **Questions to Ask to Perform at the Highest Level**
 
-## Asking the right questions will show proactiveness and help you quickly master your new role.
+## Asking the right questions is proactive and helps you quickly master your role.
 
 #### **On Your First Day and First Week**
 
